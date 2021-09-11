@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(230, 214, 164, 0.932);
+}
+
+input[type=text] {
+   
+    background-color: rgb(245, 175, 109);
+    color: rgb(8, 0, 0);
+    box-sizing: border-box;
+  border: none;
+  
+  }
+  input[type=text]:focus {
+    background-color: rgb(204, 158, 97);
+  }
+  button[type=submit]{
+      background-color: rgba(199, 105, 43, 0.822);
+      border: none;
+  color: rgb(7, 7, 7);
+  padding: 10px 15px;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 12px;
+  margin-left: 550px;
+  margin-top: 10px;
+  }
+  .risma { 
+    background-color: rgb(156, 92, 39);
+  }
+  .ma{
+    background-color: rgb(156, 92, 39);
+  }
+  .m{
+    background-color: rgb(204, 151, 83);
+  }
+  .moy{
+    background-color: chartreuse;
+  }
